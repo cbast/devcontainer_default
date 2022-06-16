@@ -12,7 +12,8 @@
 			"VARIANT": "3.6-bullseye",
 			// Options
 			"NODE_VERSION": "none"
-		}
+		},
+		"target":"dev"
 	},
 
 	// Configure tool-specific properties.
